@@ -85,6 +85,7 @@ section .content {
 
 .right img {
   width: 630px;
+  height: 85vh;
   margin-top: 40px;
   filter: drop-shadow(5px 5px 10px #fff);
 }
